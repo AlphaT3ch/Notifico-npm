@@ -3,7 +3,7 @@
 # Notifico
 [Notifico](http://n.tkte.ch/) Reports Events to IRC Channel
 
-Example Shorten:
+Example [Notifico](http://n.tkte.ch/) Report:
 
 First run ```npm install notifico``` to install the Notifico package to your system.
 

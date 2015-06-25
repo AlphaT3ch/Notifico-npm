@@ -1,6 +1,6 @@
 {
   "name": "notifico",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Notifico NPM Package - Reports Events to IRC Channel",
   "main": "index.js",
   "dependencies": {
