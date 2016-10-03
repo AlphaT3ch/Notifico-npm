@@ -1,9 +1,9 @@
-var request = require('request');
+var http = require('http');
 
 module.exports = {
     report: function(url, msg, cb) {
-        request(url + '?payload=' + encodeURIComponent(msg), function (error, response, body) {
-		cb('success');
+        http.get(url + '?payload=' + encodeURIComponent(msg), function (response) {
+		        cb('success');
         });
     }
 };
