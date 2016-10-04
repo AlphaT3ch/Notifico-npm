@@ -7,6 +7,11 @@
     "type": "git",
     "url": "https://github.com/AlphaT3ch/Notifico-npm"
   },
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-jshint": "1.10.0",
+    "gulp-markdown": "1.0.0"
+  },
   "keywords": [
     "notify",
     "notifico",
